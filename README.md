@@ -8,7 +8,7 @@ The data for the analysis is taken from UC Irvine’s Machine Learning Repositor
 
 We worked on this project as a group of 3 as part of the Statistical Learning in Engineering course [ IE 7300 ]. I took the lead on comprehensive technical documentation and analysis. My work involved:
 
-Created a comprehensive technical report explaining how all three models (Logistic Regression, SVM, and Neural Networks) work and their implementation details
-Documented key findings from exploratory data analysis, including feature correlations and class imbalance issues
-Provided strategic recommendations on model selection based on the accuracy-speed tradeoff analysis
+Created a comprehensive technical report explaining how all three models (Logistic Regression, SVM, and Neural Networks) work and their implementation details  
+Documented key findings from exploratory data analysis, including feature correlations and class imbalance issues  
+Provided strategic recommendations on model selection based on the accuracy-speed tradeoff analysis  
 
